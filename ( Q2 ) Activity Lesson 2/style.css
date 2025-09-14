@@ -1,0 +1,50 @@
+.border {
+     margin: 50px;
+     background-color: rgb(253, 213, 202);
+     border-radius: 20px;
+     padding: 30px;
+     width: 30%;
+     border: 7px solid rgb(238, 155, 38);
+}
+
+h1 {
+     text-align: center;
+}
+
+.image-Fox {
+     border-style: outset;
+     border-color: rgb(238, 155, 38);
+     border-width: 10px;
+     display: block;
+     margin: auto;
+}
+
+.image-Fox {
+     width: 400px;
+     height: 200px;
+}
+
+.paragraph-border {
+     display: flex;
+     justify-content: center;
+     overflow: scroll;
+     margin: auto;
+     border-style: dashed;
+     border-color: rgb(238, 155, 38);
+     background-color: yellow;
+     border-width: 9px;
+     width: 400px;
+     height: 300px;
+}
+
+a {
+     color:black;
+}
+
+p {
+     text-align: center;
+     font-size: 25px;
+     text-align: left 1px;
+}
+
+
